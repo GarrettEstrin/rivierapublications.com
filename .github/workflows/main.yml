@@ -27,6 +27,6 @@ jobs:
         FTP_PASSWORD: ${{ secrets.ftp_password }}
         LOCAL_DIR: /
         REMOTE_DIR: /
-        METHOD: sftp
-        PORT: 221
+        METHOD: ftp
+        PORT: 21
         ARGS: --delete

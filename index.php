@@ -1,3 +1,6 @@
+  <script>
+    console.log("script loaded");
+  </script>
   <?php include 'header.php' ?>
   <?php include 'modals.php' ?>
 	<!-- banner -->

@@ -25,8 +25,8 @@ jobs:
         FTP_SERVER: ${{ secrets.ftp_host }}
         FTP_USERNAME: ${{ secrets.ftp_user }}
         FTP_PASSWORD: ${{ secrets.ftp_password }}
-        LOCAL_DIR: /
-        REMOTE_DIR: /
+        LOCAL_DIR: ./
+        REMOTE_DIR: ./
         METHOD: ftp
         PORT: 21
         ARGS: --delete

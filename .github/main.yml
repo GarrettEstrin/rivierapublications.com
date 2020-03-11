@@ -25,8 +25,8 @@ jobs:
         FTP_SERVER: ${{ secrets.ftp_host }}
         FTP_USERNAME: ${{ secrets.ftp_user }}
         FTP_PASSWORD: ${{ secrets.ftp_password }}
-        LOCAL_DIR: ./wp-content/themes/fabulist
-        REMOTE_DIR: ./wp-content/themes/fabulist
+        LOCAL_DIR: /
+        REMOTE_DIR: /
         METHOD: sftp
         PORT: 221
         ARGS: --delete

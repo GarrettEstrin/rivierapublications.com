@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GarrettEstrin/Riviera1#readme",
   "dependencies": {
-    "clean-css": "^4.1.9",
+    "clean-css": "^4.1.11",
     "css-min": "^1.0.0",
     "dotenv": "^5.0.0",
     "ftp-deploy": "^1.2.2",

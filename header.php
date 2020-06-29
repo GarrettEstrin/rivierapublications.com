@@ -30,5 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 </head>
-
+<script>
+  console.log("page loaded");
+</script>
 <body>

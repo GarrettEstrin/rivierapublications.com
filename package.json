@@ -23,7 +23,7 @@
     "dotenv": "^5.0.0",
     "ftp-deploy": "^1.2.2",
     "ftp-deploy-log": "^1.2.8",
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.2",
     "grunt-contrib-cssmin": "^2.2.1",
     "grunt-contrib-uglify": "^3.1.0",
     "grunt-contrib-watch": "^1.1.0",
